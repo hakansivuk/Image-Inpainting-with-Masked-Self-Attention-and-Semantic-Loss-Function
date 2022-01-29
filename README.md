@@ -1,3 +1,7 @@
+# Image Inpainting with Masked Self-Attention and Semantic Loss Function
+Color inconsistencies are still a problem in image inpainting tasks. To deal with them, we present an attention mechanism named Masked Self-Attention, which takes an alternative approach to deal with masked inputs. In addition to that, we adopt contextual attention idea for our attention module. We also propose a new loss function called Semantic Attention Loss, which is used to establish connection between semantic labels and attention scores.
+[Paper](https://github.com/hakansivuk/Image-Inpainting-with-Masked-Self-Attention-and-Semantic-Loss-Function/blob/master/Paper.pdf)
+
 
 ## Installation
 
